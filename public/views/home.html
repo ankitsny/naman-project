@@ -1,0 +1,16 @@
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-6 col-sm-offset-3">
+			<center><h1>ZaubaCorp</h1></center>
+			<hr>
+
+			<div class="input-group">
+				<input  type="text" placeholder="enter a company name" ng-model="selected" uib-typeahead="company for company in companies | filter:$viewValue | limitTo:10" class="form-control">
+				<span class="input-group-btn">
+					<button class="btn btn-default" uib-tooltip="Search" ng-click="go()">Search</button>
+				</span>
+			</div>
+		</div>
+		</div>
+	</div>
+</div>
