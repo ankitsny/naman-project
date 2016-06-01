@@ -10,13 +10,13 @@
 - install nodejs [https://nodejs.org/en/download/] download .msi for windows
 - install bower
 	- open terminal/cmd 
-		- 2.1.1 for windows: npm install bower -g
-		- 2.1.2 for Linux  : sudo npm install bower -g
+		- for windows: npm install bower -g
+		- for Linux  : sudo npm install bower -g
 
 - download all node modules
-	- 3.1 open terminal/cmd
-		- 3.1.1 for windows: npm install 
-		- 3.1.2 for Linux  : sudo npm install		
+	- open terminal/cmd
+		- for windows: npm install 
+		- for Linux  : sudo npm install		
 
 - download all bower components
 	- open terminal/cmd
