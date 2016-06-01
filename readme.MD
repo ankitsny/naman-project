@@ -2,7 +2,7 @@
 
 - download
  	- open terminal/git bash (for windows install git bash [https://git-scm.com/downloads])
-	- git clone https://github.com/anks333/naman-project.git
+	-  type: git clone https://github.com/anks333/naman-project.git
 
 - Change the working directory
 
